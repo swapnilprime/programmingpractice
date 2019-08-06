@@ -1,5 +1,5 @@
 # Solutions of Random Programming Puzzles in Python
-
+----
 
 .__  .__              .__                       .___
 |  | |__| ____   ____ |  |__   ____ _____     __| _/
