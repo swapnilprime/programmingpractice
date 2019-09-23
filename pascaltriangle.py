@@ -1,3 +1,4 @@
+#pascal triangle
 i=1  
 a=[]  
 b=[]  

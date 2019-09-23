@@ -43,10 +43,10 @@ while 1:
 				n=int(raw_input('Enter a Number-->'))
 				nthprime(n)
 			elif ch==3:
-				print 'Bye Bye'
+				print 'Bye Bye! See you never'
 				exit()
 			else:
-				print 'Wrong Input'
+				print 'Wrong Input! Please enter valid input'
 		except:
 			print 'Exception!!!'
 			exit()
